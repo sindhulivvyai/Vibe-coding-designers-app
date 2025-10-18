@@ -1,0 +1,5 @@
+{
+  "name": "Design Spark",
+  "description": "An AI-powered design assistant that helps designers brainstorm by analyzing their sketches. Upload a basic sketch and get creative ideas, color palettes, typography suggestions, and more in a structured format.",
+  "requestFramePermissions": []
+}
